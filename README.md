@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Teodozio 🖐️
+## Olá! Eu sou o Gustavo Teodozio 🖐️ sou um desenvolvedor front-end apaixonado por criar interfaces web atraentes e funcionais. Tenho 1 ano de experiência com HTML, CSS e JavaScript, e estou sempre em busca de aprender novas tecnologias para melhorar minhas habilidades.
 
 ## Tecnologias que eu uso no meu dia
 
