@@ -13,5 +13,3 @@
 
 Se você quiser trabalhar comigo ou apenas dizer oi, fique à vontade para me contatar pelo e-mail gustavo.sampaio195@gmail.com  ou pelo LinkedIn https://www.linkedin.com/in/gustavo-teodozio-6697a41a2/
 
-Obrigado por visitar meu perfil! Espero poder trabalhar em projetos incríveis juntos em breve.
-
