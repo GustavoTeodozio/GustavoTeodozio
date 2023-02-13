@@ -11,5 +11,7 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Se você quiser trabalhar comigo ou apenas dizer oi, fique à vontade para me contatar pelo e-mail gustavo.sampaio195@gmail.com  ou pelo LinkedIn https://www.linkedin.com/in/gustavo-teodozio-6697a41a2/
+
+Obrigado por visitar meu perfil! Espero poder trabalhar em projetos incríveis juntos em breve.
 
