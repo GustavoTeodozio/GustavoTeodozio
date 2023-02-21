@@ -8,7 +8,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-  <img align="center" alt="sql" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"   
+  <img align="center" alt="sql" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" (https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
 </div><br/>
 
 Se você quiser trabalhar comigo ou apenas dizer oi, fique à vontade para me contatar pelo e-mail gustavo.sampaio195@gmail.com  ou pelo LinkedIn https://www.linkedin.com/in/gustavo-teodozio-6697a41a2/
