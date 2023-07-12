@@ -1,6 +1,6 @@
-## Olá! Eu sou o Gustavo Teodozio 🖐️ sou um desenvolvedor front-end apaixonado por criar interfaces web atraentes e funcionais. Tenho 1 ano de experiência com HTML, CSS e JavaScript, e estou sempre em busca de aprender novas tecnologias para melhorar minhas habilidades.
 
-## Tecnologias que estou usando e aprendendo
+
+## Tecnologias que estou estudando
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
